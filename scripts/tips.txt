@@ -1,0 +1,6 @@
+Tip 1: Keep your server updated with the latest security patches.
+Tip 2: Regularly back up your important data to prevent data loss.
+Tip 3: Use strong and unique passwords for your user accounts.
+Tip 4: Be extra careful when using rm commands.
+Tip 5: Backup files are helpful to recover lost or damaged files.
+
